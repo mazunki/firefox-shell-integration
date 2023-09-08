@@ -1,0 +1,8 @@
+{
+    "name": "tech.mazunki.ff_integration",
+    "description": "Firefox Integration from shell",
+    "path": "/home/mazunki/.local/src/proj/firefox-api/native-messaging-host.py",
+    "type": "stdio",
+    "allowed_extensions": ["tech.mazunki.ff_integration@mozilla.org"]
+}
+
